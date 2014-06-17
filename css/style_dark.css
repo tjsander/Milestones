@@ -1,0 +1,82 @@
+/*
+	Travis Sanders (sandetra@onid.oregonstate.edu)
+*/
+
+h1 {
+	background-color: #023D65;
+	padding: 30px;
+	text-align: center;
+}
+
+h2 {
+	background-color: black;
+	width:200px;
+	padding:10px;
+	border-radius:10px;
+}
+
+html {
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	background-color: #FFFFFF; 
+	padding: 50px;
+}
+
+img {
+	width:50%;
+}
+
+code {
+	background-color:black;
+	padding:5px;
+	border-radius:5px;
+}
+
+body, a {
+	color: white;
+}
+
+h1, body, th, td, li { 
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+}
+
+table {
+	border-collapse: collapse;
+	border:3px solid black; 
+	width:70%; 
+	padding:5px;
+	border-radius:10px;
+}
+
+div {
+	width:70%;
+	background-color:#ADB0AF;
+	padding:10px;
+	border-radius:10px;
+}
+
+table tr td { 
+	background-color: #6baed6;
+}
+
+table td {
+	padding: 5px;
+	border:2px solid black;
+}
+
+td:hover { 
+	background-color: #ADB0AF; 
+}
+
+li:hover { 
+	background-color: #ADB0AF;
+	border-radius:5px;
+	color: black;
+}
+
+li { 
+	display: block; 
+	padding: 5px; 
+	transition: all .5s ease-in-out;
+}
+
+.empty { background-color: #4292c6; }
