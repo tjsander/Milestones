@@ -3,8 +3,6 @@ Milestones
 
 Milestones is a color-gradiated to-do and to-done list. Originally a CS494 Web Dev final project.
 
-[a link](http://travisjsanders.com/milestones/)
-
 I wanted to make a to-do application that focused on short-term goals for the present and long-term accomplishments in the past. I quit smoking a little over three years ago, and looking at the amount of time that’s passed since my last cigarette really helped me early on in that process. 
 
 So, as ‘milestones’ get closer to the present they become redder and as they get further away from the present, they become greener. I spent a ton of time on styling and learning more Bootstrap css tricks. 
